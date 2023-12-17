@@ -6,6 +6,7 @@ Php İle Yapılmış Web Tabanlı Bir Cv Oluşturucu.
 
 Kaynak Dosyalarını Sizinle Paylaştım İndirip Kullanabilirsiniz.
 
+Demo : https://cvdemo.mekontsoft.com.tr
 
 Geliştirip'te Kullanabilirsiniz. Tamamen Sizin Elinizde.
 
